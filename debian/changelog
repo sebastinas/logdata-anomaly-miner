@@ -1,3 +1,10 @@
+logdata-anomaly-miner (2.2.2-1) unstable; urgency=low
+
+  * New upstream release V2.2.2, see
+    https://github.com/ait-aecid/logdata-anomaly-miner/releases/tag/V2.2.2
+
+ -- Markus Wurzenberger <markus.wurzenberger@ait.ac.at>  Sun, 31 Jan 2021 11:19:33 +0100
+
 logdata-anomaly-miner (2.2.1-1) unstable; urgency=low
 
   [ Markus Wurzenberger ]
